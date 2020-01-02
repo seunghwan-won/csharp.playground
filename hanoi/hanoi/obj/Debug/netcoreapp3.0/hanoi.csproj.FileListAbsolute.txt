@@ -1,0 +1,11 @@
+/Users/seunghwanwon/Documents/dev/csharp/hanoi/hanoi/bin/Debug/netcoreapp3.0/hanoi
+/Users/seunghwanwon/Documents/dev/csharp/hanoi/hanoi/bin/Debug/netcoreapp3.0/hanoi.deps.json
+/Users/seunghwanwon/Documents/dev/csharp/hanoi/hanoi/bin/Debug/netcoreapp3.0/hanoi.runtimeconfig.json
+/Users/seunghwanwon/Documents/dev/csharp/hanoi/hanoi/bin/Debug/netcoreapp3.0/hanoi.runtimeconfig.dev.json
+/Users/seunghwanwon/Documents/dev/csharp/hanoi/hanoi/bin/Debug/netcoreapp3.0/hanoi.dll
+/Users/seunghwanwon/Documents/dev/csharp/hanoi/hanoi/bin/Debug/netcoreapp3.0/hanoi.pdb
+/Users/seunghwanwon/Documents/dev/csharp/hanoi/hanoi/obj/Debug/netcoreapp3.0/hanoi.csprojAssemblyReference.cache
+/Users/seunghwanwon/Documents/dev/csharp/hanoi/hanoi/obj/Debug/netcoreapp3.0/hanoi.AssemblyInfoInputs.cache
+/Users/seunghwanwon/Documents/dev/csharp/hanoi/hanoi/obj/Debug/netcoreapp3.0/hanoi.AssemblyInfo.cs
+/Users/seunghwanwon/Documents/dev/csharp/hanoi/hanoi/obj/Debug/netcoreapp3.0/hanoi.dll
+/Users/seunghwanwon/Documents/dev/csharp/hanoi/hanoi/obj/Debug/netcoreapp3.0/hanoi.pdb

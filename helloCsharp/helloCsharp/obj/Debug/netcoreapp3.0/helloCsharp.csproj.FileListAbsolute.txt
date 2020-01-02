@@ -1,0 +1,11 @@
+/Users/seunghwanwon/Documents/dev/csharp/helloCsharp/helloCsharp/bin/Debug/netcoreapp3.0/helloCsharp
+/Users/seunghwanwon/Documents/dev/csharp/helloCsharp/helloCsharp/bin/Debug/netcoreapp3.0/helloCsharp.deps.json
+/Users/seunghwanwon/Documents/dev/csharp/helloCsharp/helloCsharp/bin/Debug/netcoreapp3.0/helloCsharp.runtimeconfig.json
+/Users/seunghwanwon/Documents/dev/csharp/helloCsharp/helloCsharp/bin/Debug/netcoreapp3.0/helloCsharp.runtimeconfig.dev.json
+/Users/seunghwanwon/Documents/dev/csharp/helloCsharp/helloCsharp/bin/Debug/netcoreapp3.0/helloCsharp.dll
+/Users/seunghwanwon/Documents/dev/csharp/helloCsharp/helloCsharp/bin/Debug/netcoreapp3.0/helloCsharp.pdb
+/Users/seunghwanwon/Documents/dev/csharp/helloCsharp/helloCsharp/obj/Debug/netcoreapp3.0/helloCsharp.csprojAssemblyReference.cache
+/Users/seunghwanwon/Documents/dev/csharp/helloCsharp/helloCsharp/obj/Debug/netcoreapp3.0/helloCsharp.AssemblyInfoInputs.cache
+/Users/seunghwanwon/Documents/dev/csharp/helloCsharp/helloCsharp/obj/Debug/netcoreapp3.0/helloCsharp.AssemblyInfo.cs
+/Users/seunghwanwon/Documents/dev/csharp/helloCsharp/helloCsharp/obj/Debug/netcoreapp3.0/helloCsharp.dll
+/Users/seunghwanwon/Documents/dev/csharp/helloCsharp/helloCsharp/obj/Debug/netcoreapp3.0/helloCsharp.pdb
